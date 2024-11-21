@@ -1,4 +1,4 @@
-# Blender-Projekt
+# Blender-Project
 My final project in blender course (Högskolan i Gävle).
 
 Link to the movie in Google Drive:
