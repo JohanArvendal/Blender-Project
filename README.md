@@ -1,5 +1,4 @@
 # Blender-Project
-My final project in blender course (Högskolan i Gävle).
 
 Link to the movie in Google Drive:
 https://drive.google.com/file/d/1LP_gt19xwDTRcHDgw0LPcxtiUPCwrsii/view?usp=sharing
